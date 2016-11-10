@@ -1,2 +1,3 @@
-function distance(){
+function distance(p1、p2){
+    
 }
