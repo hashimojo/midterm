@@ -1,6 +1,5 @@
-let a
 function strlen(text){
-    a = "text";
+    let a = "text";
     return console.log(a);
 }
 
